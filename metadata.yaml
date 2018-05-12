@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-Mr.-Mocker_11915
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -13,6 +16,8 @@ description: Something strange is going on in the Green Forest! Sticky-toes the 
   Toad hears his own voice coming from another tree. Sammy Jay keeps everyone awake
   by calling "Thief, thief!" but he swears he was asleep. Will they get to the bottom
   of the mystery?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11915#The-Adventures-of-Mr.-Mocker
 gutenberg_bookshelf:
 - Children's Book Series
 - Children's Literature
